@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "341905325595",
+    "project_id": "pokket-1caec",
+    "storage_bucket": "pokket-1caec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341905325595:android:a0989f5e7fbd6071c882be",
+        "android_client_info": {
+          "package_name": "com.example.pokket_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341905325595-1c7mhbp6j8d2iu20ou3vs424mik24jta.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClUFq-E4bMyAvkEoHtjH3UrAvRPFVIr48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341905325595-1c7mhbp6j8d2iu20ou3vs424mik24jta.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
